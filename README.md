@@ -1,14 +1,14 @@
-# CVSS v3 Serpico Output
+# CVSS3_Serpico_Output.xlsx - JSON
 This excel file has a JSON output for each Findings. This JSON output is compatible with the import in the base SERPICO Project.
 You can easily with a script (PowerShell / Python) retrieve each JSON output and insert it into a JSON file for import.
 CF: https://www.github.com/SerpicoProject
 
 
-# CVSS v3 Brute
+# cvssv3_brute.xlsx - Exemple
 This file is here as an example to understand the formulas used to calculate the CVSS score.
 You can use this file to resume the calculations and thus make your own version.
 
-# CVSS v3 Line
+# CVSSV3-Calculator_line.xlsx - Original
 This file is the default file with a VECTOR output. You can copy the first line so apply it to as many "cases" as you want. This file has no JSON output
 
 # Powershell_export_json.ps1
